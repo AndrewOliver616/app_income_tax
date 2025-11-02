@@ -8,7 +8,7 @@ Projeto de desenvolvimento de planilha de controle de imposto de renda.
 
 ## 🖥️Funcionalidades
 
-- Prenchimento de dados para envio ao contador ou controle próprio.
+- Preenchimento de dados para envio ao contador ou controle próprio.
 
 - Abas adicionais informação de extrato bancários e renda recebida por tipo de origem.
 
